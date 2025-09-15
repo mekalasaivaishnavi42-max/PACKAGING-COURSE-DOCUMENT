@@ -135,38 +135,40 @@ o	Similarly we can try other packages as well
  
  
  <img width="663" height="349" alt="image" src="https://github.com/user-attachments/assets/ecc7ea64-88ff-4317-9e16-570a146a6d28" />
+<img width="691" height="421" alt="image" src="https://github.com/user-attachments/assets/fc6248f9-922e-4069-b291-861e45516127" />
+<img width="662" height="414" alt="image" src="https://github.com/user-attachments/assets/97b030d1-37f1-425f-ac05-068da2883237" />
+<img width="654" height="507" alt="image" src="https://github.com/user-attachments/assets/5ab63110-69e0-4c53-adc0-b350fd7e556f" />
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ <img width="664" height="420" alt="image" src="https://github.com/user-attachments/assets/5000f118-8c8f-4906-8387-1b734ce28be0" />
+<img width="539" height="414" alt="image" src="https://github.com/user-attachments/assets/67f179fb-3bfe-4e23-b328-9c5e6b0eb708" />
+<img width="534" height="452" alt="image" src="https://github.com/user-attachments/assets/c330cca0-b3f4-4d48-9706-b436d53fd950" />
+<img width="585" height="419" alt="image" src="https://github.com/user-attachments/assets/8583a9c7-b3c7-415a-82a7-62ea33d9b530" />
+<img width="625" height="394" alt="image" src="https://github.com/user-attachments/assets/4a8b2859-feb5-44cd-bed9-4bf0f9a6b155" />
+
+ <img width="880" height="359" alt="image" src="https://github.com/user-attachments/assets/155fe3a8-7c4c-431c-81a6-c42b503d1fb8" />
+<img width="856" height="279" alt="image" src="https://github.com/user-attachments/assets/b46f66fb-1254-48a0-8372-1169379285eb" />
+<img width="660" height="350" alt="image" src="https://github.com/user-attachments/assets/bc5fc1d8-7c8b-47f5-a95a-2d0770916611" />
+<img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/73667382-1c14-4c70-9586-f08ca88610b9" />
+<img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/e39024f0-9b04-4749-9435-d9cf9136ca4a" />
  
 Different Plot Fields 
-	 
+	
 
- 
- 
-
-
-
-
-
-
+<img width="711" height="342" alt="image" src="https://github.com/user-attachments/assets/ae30cee5-52c0-489e-8a60-bd92dfeaa9ce" />
+<img width="818" height="357" alt="image" src="https://github.com/user-attachments/assets/b33bd0fa-cd56-4de6-bcc9-fbc6c6e20e29" />
+<img width="822" height="348" alt="image" src="https://github.com/user-attachments/assets/8ab77538-e2c2-4e39-8ade-559fad4fb7b6" />
 
 
 
 MESH Operation Results
 
                   
- 
+ <img width="333" height="429" alt="image" src="https://github.com/user-attachments/assets/ba95a63f-2681-4b18-a7c0-fd2e1963c536" />
+<img width="324" height="441" alt="image" src="https://github.com/user-attachments/assets/afe26860-ef41-49f1-8b10-4786051875d6" />
+<img width="335" height="458" alt="image" src="https://github.com/user-attachments/assets/94335a0f-a2c9-481c-8000-1eda95613b9c" />
 
 Validating the model
+<img width="762" height="293" alt="image" src="https://github.com/user-attachments/assets/516ba44a-f225-4438-9289-6bc0908f5091" />
 
  
 
@@ -199,17 +201,17 @@ Testing and Functionality Checks are done at each stage of manufacturing as well
 Package Design and Modeling: Building a Semiconductor Package from Scratch
 Hands on lab to design wire bond package from scratch.
 Designing  die, substrate, underfill, die attach, wire bonds, mold  with appropriate materials, dimensions which include co-ordinates, thickness of material.
- 
-
- 
- 
- 
- 
- 
-  
+ <img width="830" height="331" alt="image" src="https://github.com/user-attachments/assets/3cf1fe07-003f-47d4-8fd3-4681934dc862" />
+<img width="771" height="311" alt="image" src="https://github.com/user-attachments/assets/c5b117cd-3b58-4a38-856d-f08ceff9c0ab" />
+<img width="772" height="310" alt="image" src="https://github.com/user-attachments/assets/3f2cc50e-b3fd-4c12-97d3-82391365f477" />
+<img width="809" height="310" alt="image" src="https://github.com/user-attachments/assets/d9952b7d-610a-40ff-bda1-74d5e4947c4e" />
+<img width="776" height="385" alt="image" src="https://github.com/user-attachments/assets/f5c30c79-1eab-4ce5-ab00-427db7f8f0ac" />
+<img width="778" height="437" alt="image" src="https://github.com/user-attachments/assets/65b3f844-b246-43d3-92eb-90c7788866aa" />
+<img width="824" height="337" alt="image" src="https://github.com/user-attachments/assets/33a31c7f-3b4e-4624-98e1-93e9dce05c8a" />
            
 Choosing dimensions for wire bond according to JPEC standards
- 
+ <img width="838" height="357" alt="image" src="https://github.com/user-attachments/assets/6f4aa24d-0ce8-4462-a670-adb78318bd78" />
+
 
 
 
